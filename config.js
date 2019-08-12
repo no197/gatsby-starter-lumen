@@ -26,15 +26,15 @@ module.exports = {
     },
   ],
   author: {
-    name: "John Doe",
+    name: "Yen Mai",
     photo: "/photo.jpg",
     bio:
       "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
     contacts: {
-      email: "#",
+      email: "yenmai478@gmail.com",
       telegram: "#",
       twitter: "#",
-      github: "#",
+      github: "https://github.com/no197",
       rss: "#",
       vkontakte: "#",
     },
