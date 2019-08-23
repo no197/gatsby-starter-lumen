@@ -21,8 +21,6 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
 
-
-
 ### 1. JSX là gì?
 
 * JSX( viết tắt của Javascript XML) là một cấu trúc mở rộng của Javascript viết theo kiểm XML thường được sử dụng trong React để mô tả giao diện người dùng. Nó giống như một **template engine** nhưng mang đầy đủ sức mạnh của Javascript giúp người dùng có thể tạo ra các Component UI một cách đơn giản hơn.
