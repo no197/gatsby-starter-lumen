@@ -8,6 +8,6 @@ Chào các bạn mình là Yên, các bạn có thể gọi mình là Yên Mai h
 
 ![photo](/media/photo.png "Hình ảnh minh họa thôi không phải mình đâu :))")
 
-_Blog của mình không chỉ là nơi mình chia sẻ những gì mình biết mà còn là nơi mình tâm sự, trút bỏ những khó khăn trong cuộc sống. Thế giới riêng của mình với những người bạn lắng nghe những cảm xúc của mình nhưng chưa từng gặp mặt._
+_Blog của mình không chỉ là nơi mình chia sẻ những gì mình biết mà còn là nơi mình tâm sự, trút bỏ những khó khăn trong cuộc sống. Nơi những cảm xúc, chia sẻ được xếp ngăn nắp qua những bài viết dành tặng cho những người bạn đọc mà mình có thể chưa một lần gặp mặt._
 
 Chào mừng bạn đến với Blog của Yên. Chúc các bạn vui vẻ ^-^
